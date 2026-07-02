@@ -1,7 +1,7 @@
 # Python Math Toolkit
 
 ## About
-A collection of beginner Python programs including calculators, unit converters, and simple equation solvers. Built while learning programming, algebra, and problem-solving.
+A collection of beginner Python programs including a basic calculator, unit converter, and simple equation solver. Built while learning programming, algebra, and problem-solving.
 
 ———
 

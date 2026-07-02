@@ -32,6 +32,6 @@ To build strong programming fundamentals for future physics simulations, data an
 ———
 
 ## Status
-In progress
+In progress.
 Thursday, July 2, 2026: 
-Update #1 - Basic python calculator halfway completed. Each input is working properly with a loop system in place.
+- Update #1 - Basic python calculator halfway completed. Each input is working properly with a loop system in place.
